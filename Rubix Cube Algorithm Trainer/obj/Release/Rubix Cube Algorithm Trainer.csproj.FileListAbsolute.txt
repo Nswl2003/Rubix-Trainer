@@ -1,0 +1,11 @@
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\bin\Release\Rubix Cube Algorithm Trainer.exe.config
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\bin\Release\Rubix Cube Algorithm Trainer.exe
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\bin\Release\Rubix Cube Algorithm Trainer.pdb
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\obj\Release\Rubix Cube Algorithm Trainer.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\obj\Release\Rubix Cube Algorithm Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\obj\Release\Rubix Cube Algorithm Trainer.exe
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\obj\Release\Rubix Cube Algorithm Trainer.pdb
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\bin\Release\Rubix Cube Algorithm Trainer.exe.manifest
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\bin\Release\Rubix Cube Algorithm Trainer.application
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\obj\Release\Rubix Cube Algorithm Trainer.exe.manifest
+C:\Users\Josh\source\repos\Rubix Cube Algorithm Trainer\obj\Release\Rubix Cube Algorithm Trainer.application
